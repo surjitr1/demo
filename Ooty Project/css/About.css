@@ -1,0 +1,49 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a1a;
+    color: white;
+    text-align: center;
+}
+
+header {
+    background: linear-gradient(98deg, #0b1bab, #f61c44);
+    padding: 30px;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+/* Section Styles */
+section {
+    padding: 50px 20px;
+    margin: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+}
+
+/* Footer Styles */
+footer {
+    background: #222;
+    padding: 20px;
+    margin-top: 20px;
+}
